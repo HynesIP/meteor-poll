@@ -1,3 +1,5 @@
+Testing for Science Project
+
 # Meteor-poll
 
 Simple poll app built with Meteor JS. It uses the [Chartist package](https://github.com/mfpierre/meteor-chartist-js/) to build a reactive chart of the answers
